@@ -1,31 +1,95 @@
-= App Quick Start Guide
 Title: Motivated Moms App Quick Start Guide
 Author: Matthew Murphy
 Date: 4/8/2021
 Copyright: 2021
 Revision: 1.1
 
-== Before You Begin
+# App Quick Start Guide
 
-== Getting Started
 
-=== Working with Individual Tasks
+## Before You Start
+To begin using the Motivated Moms mobile app:
+1. Become a Motivated Moms [member][].
+2. **Download** the Motivated Moms app for [Android][] or [iOS][].
+3. **Open** the app and **sign in** using your Motivated Moms user name and password.
 
-How do I complete a task?
-:    1. From the **Daily Task List**, tap any incomplete task to mark it complete.
+Once you've signed in, you'll see the hub of the mobile app, your **Daily Task List**. From here you can:
 
-How do I add a task?
-:    1. Tap the plus(+) icon in the lower right corner of the **Daily Task List** and tap __New Task__.
-:    2. Tap __Add__ to save the task to your **Master Task List**.
+* Complete, add, edit, or delete tasks.
+* Sort your daily task list.
+* View your future lists.
+* Access the app setting menu.
 
-How do I delete a task?
-:    1. From the **Daily Task List**, swipe any task to the left and tap __Delete__.
+Congratulations, you're ready to **get started**!
 
-How do I reschedule or rename a task?::
-    1. From the **Daily Task List**,
+## Working with Individual Tasks
 
-== Working with Task Lists
+### How do I complete a task?
+1. From the **Daily Task List**, tap any incomplete task to mark it complete. Tap a completed task to mark it incomplete.
 
-== Working with People and Rooms
+### How do I add a task?
+1. Tap the plus(+) icon in the lower right corner of the **Daily Task List** and tap __New Task__.
+2. Tap __Add__ to save the task to your **Master Task List**.
 
-== Other
+### How do I delete a task?
+1. From the **Daily Task List**, swipe any task to the left and tap __Delete__.
+2. Click __Yes__ to confirm that you wish to delete the task. The task will no longer appear on your **Daily Task List**.
+
+### How do I reschedule or rename a task?
+1. From your **Daily Task List**, swipe any task to the left and tap __Edit__ to edit the task.
+2. To move one instance of a repeating task, choose the __Move__ option.
+3. Click __Save__ to save your changes and return to your **Daily Task List**.
+
+## Working with Task Lists
+
+### How do I sort my list?
+The green checkmark indicates how your list is currently sorted.
+
+1. From your Daily Task List, tap the three horizontal lines in the    top right corner of the screen to change the way your list is sorted.
+### How do I see tomorrow’s task list?
+2. Tap the right arrow (>)  at the top of your **Daily Task List** to see tasks for future days, or tap the left arrow (<) to see a list from previous days.
+
+### How do I view ALL of the tasks?
+1. Tap the profile icon in the upper left corner of your **Daily Task** List to view the **Settings** menu.
+2. Tap __Edit Tasks__ to view your **Master Task List**.
+
+## Working with People and Rooms
+
+### How do I add people and rooms?
+1. Tap the plus(+) icon in the lower right corner of the **Daily Task List** to open the **Add** menu.
+2. Add a person or room:
+    a. Tap __New Person__. Add the person’s name and tap __Save__ to return to your **Daily Task List**.
+    b. Tap __New Room__. Add the room name and tap __Save__ to return to your **Daily Task List**.
+
+### How do I assign tasks to people and rooms?
+1. From your *Daily Task List*, swipe any task to the left and tap __Edit__.
+2. Assign the task:
+    a. Assign a task to a person by tapping __Assign this task to__, selecting a person, and clicking __Done__.
+    b. Assign a task to a room by tapping __Room__, selecting a person, and clicking __Done__.
+3. Tap __Save__ to return to your daily task list.
+
+
+## Other
+
+### How do I turn off the bible readings?
+1. Tap the __profile__ icon in the upper left corner of your **Daily Task List** to view the **Settings** menu.
+2. Tap the slider to the right of the __Bible Readings__ option to turn the slider gray, indicating that bible readings are turned off.
+
+### What if my question wasn’t answered here?
+Our Facebook group is a friendly place to ask questions. If you are a Motivated Moms member, consider joining our private members group. Click here to [request access][]. Be sure to include your membership email address!
+
+Technical questions, billing questions, or questions you just can’t find an answer to are always welcome via our [Contact Us][] page.
+
+### How can I provide feedback on the app?
+Help us improve our app! Feedback welcome via our [Contact Us][] page.
+
+<!-- STYLES AND ABBREVIATIONS
+App locations are **bold**
+App commands are __italic__
+-->
+<!-- LINKS -->
+[member]: https://motivatedmoms.com/join/
+[Android]: https://play.google.com/store/apps/details?id=com.tejassoft.motivatedmoms
+[iOS]: https://apps.apple.com/us/app/motivated-moms-mobile/id1478803959
+[request access]: https://www.facebook.com/groups/533236437178846/
+[Contact Us]: https://motivatedmoms.com//contact-us/
