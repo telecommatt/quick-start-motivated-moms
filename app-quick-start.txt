@@ -1,0 +1,31 @@
+= App Quick Start Guide
+Title: Motivated Moms App Quick Start Guide
+Author: Matthew Murphy
+Date: 4/8/2021
+Copyright: 2021
+Revision: 1.1
+
+== Before You Begin
+
+== Getting Started
+
+=== Working with Individual Tasks
+
+How do I complete a task?
+:    1. From the **Daily Task List**, tap any incomplete task to mark it complete.
+
+How do I add a task?
+:    1. Tap the plus(+) icon in the lower right corner of the **Daily Task List** and tap __New Task__.
+:    2. Tap __Add__ to save the task to your **Master Task List**.
+
+How do I delete a task?
+:    1. From the **Daily Task List**, swipe any task to the left and tap __Delete__.
+
+How do I reschedule or rename a task?::
+    1. From the **Daily Task List**,
+
+== Working with Task Lists
+
+== Working with People and Rooms
+
+== Other
